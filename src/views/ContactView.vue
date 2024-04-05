@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>About view</h1>
+    <h1>Contact view</h1>
     <!-- end content -->
     <!-- Start footer -->
     <FooterView />
