@@ -32,7 +32,7 @@
               </div>
               <div class="post-entry-content">
                 <h3 class="image-post-title">
-                  <a :href="'/post/' + value.slug">{{ value.title }}</a>
+                  <a :href="value.slug">{{ value.title }}</a>
                 </h3>
                 <span class="jl_post_meta">
                   <span class="jl_author_img_w">
